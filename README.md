@@ -1,6 +1,6 @@
 # Flappy-Bird-Project-PF-Sem-1-
 
-![Game Screenshot](![Flappy Bird Logo](https://github.com/user-attachments/assets/57bef8a1-812b-4875-bfd9-f28f74e273d5)
+!(![Flappy Bird Logo](https://github.com/user-attachments/assets/57bef8a1-812b-4875-bfd9-f28f74e273d5)
 )
 
 
