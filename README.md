@@ -3,6 +3,10 @@
 ![Flappy Bird Logo](https://github.com/user-attachments/assets/57bef8a1-812b-4875-bfd9-f28f74e273d5)
 
 
+Group Members:
+- Ilsa Ilyas (Leader)
+- Sara Ali
+- Sharjeel Memon
 
 Flappy Bird is a console-based game where the player controls a bird that must navigate through gaps in pipes without colliding with them or hitting the ground. The game is implemented in C and uses the Windows API for console manipulation.
 
